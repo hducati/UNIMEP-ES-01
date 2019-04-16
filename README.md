@@ -32,8 +32,8 @@ Com base nos requisitos apresentados pelo cliente, a equipe de desenvolvimento p
 
 
 ### Autores
-Clovis Carmezini Jr. 
-Henrique Ducati
-Júlio Cesar Stella 
-Michel Santos Stefani 
-Thiago Henrique Oliveira
+* Clovis Carmezini Jr. 
+* Henrique Ducati
+* Júlio Cesar Stella 
+* Michel Santos Stefani 
+* Thiago Henrique Oliveira
