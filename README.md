@@ -11,7 +11,7 @@ Prof. Me. José Maria Cesário Junior
 
 
 ## Descrição
-Sky Pro Messenger é um projeto de aplicativo web e mobile que visa facilitar a comunicação empresarial entre os colaboradores, ou até mesmo entre as diversas unidades de uma mesma empresa 
+Sky Pro Messenger é um projeto de aplicativo web e mobile que visa facilitar a comunicação empresarial entre os colaboradores, ou até mesmo entre as diversas unidades de uma mesma empresa. 
 
 
 
